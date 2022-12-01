@@ -6,3 +6,5 @@ https://github.com/AkileshRao/passport-strategies
 https://www.sitepoint.com/spa-social-login-google-facebook/
 
 https://youtu.be/d-IToO3gLrM
+
+https://stackoverflow.com/questions/46387122/passport-jwt-google-facebook-strategy-how-do-i-combine-jwt-and-google-face
