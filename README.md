@@ -11,3 +11,5 @@ https://stackoverflow.com/questions/46387122/passport-jwt-google-facebook-strate
 
 
 https://www.jeansnyman.com/posts/authentication-in-express-with-google-and-facebook-using-passport-and-jwt/
+
+https://javascript.plainenglish.io/4-steps-to-create-google-authentication-api-in-node-js-e4bab8f744bc
