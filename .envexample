@@ -1,0 +1,6 @@
+NODE_ENV = development
+PORT = 5000
+MONGO_URI = mongodb+srv://<user>:<pass>@*****b.net/<collection_name>?retryWrites=true&w=majority
+JWT_SECRET = abc123
+GOOGLE_CLIENTID  = asdfasdf
+GOOGLE_CLIENTSECRET = asdfasdf
